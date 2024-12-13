@@ -133,7 +133,7 @@ img {
 
 /* Hero Section */
 .hero {
-    background-image: url('./assets/images/backgraund.webp');
+    background-image: url('assets/images/backgraund.webp');
     background-size: cover;
     background-position: center;
     min-height: 100vh;
